@@ -1,4 +1,4 @@
-# RossImpactChallengeTweetAnalysis
+# 2015 Michigan Ross Impact Challenge Tweet Analysis
 Analysis of tweets during the 2015 Michigan Ross Impact Challenge
 
 # License
